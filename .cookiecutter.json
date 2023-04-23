@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/gwood/personal/finance/fun_with_websockets",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "geoff wood",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "ge.ffw.d@gmail.com",
+  "friendly_name": "Jaba Websockets",
+  "github_user": "gpwood",
+  "license": "MIT",
+  "package_name": "jaba_websockets",
+  "project_name": "jaba-websockets",
+  "version": "0.0.0"
+}
